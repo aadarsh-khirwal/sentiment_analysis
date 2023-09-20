@@ -4,7 +4,7 @@ This is a simple sentiment analysis project that uses a logistic regression mode
 
 ## Installation
 To run this project, you'll need to have Python 3 installed. You can clone the repository and install the necessary packages using pip:
-git clone https://github.com/aadarsh-khirwal/sentiment-analysis.git
+git clone [https://github.com/aadarsh-khirwal/sentiment-analysis.git](https://github.com/aadarsh-khirwal/sentiment_analysis/tree/main)
 cd Sentiment-Analysis
 pip install -r requirements.txt
 
